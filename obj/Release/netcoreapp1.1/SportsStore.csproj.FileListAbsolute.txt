@@ -1,0 +1,9 @@
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Release\netcoreapp1.1\SportsStore.deps.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Release\netcoreapp1.1\SportsStore.runtimeconfig.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Release\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Release\netcoreapp1.1\SportsStore.dll
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Release\netcoreapp1.1\SportsStore.pdb
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Release\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Release\netcoreapp1.1\SportsStore.dll
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Release\netcoreapp1.1\SportsStore.pdb
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Release\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache

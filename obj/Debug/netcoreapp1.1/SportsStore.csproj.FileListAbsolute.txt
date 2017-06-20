@@ -1,0 +1,27 @@
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+D:\Documents\OneDrive\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+D:\Documents\VSProjects\!ProAspNetCore\Visual Studio 2017 Updates\Updated Source Code\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+d:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+d:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+d:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+d:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+d:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+d:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+d:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+d:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+d:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb

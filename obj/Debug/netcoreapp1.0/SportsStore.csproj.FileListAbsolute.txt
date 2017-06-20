@@ -1,0 +1,13 @@
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.deps.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.dev.json
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.pdb
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfo.cs
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.dll
+D:\Documents\VSProjects\SportsStore\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.pdb
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\app.yaml
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\Dockerfile
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\client.pfx
+D:\Documents\VSProjects\SportsStore\SportsStore\bin\Debug\netcoreapp1.0\paller.json
